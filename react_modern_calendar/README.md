@@ -8,7 +8,6 @@
 - [Technology](#-technology)
 - [How to use](#-how-to-use)
 - [Scripts](#-scripts)
-- [Contribution](#-contribution)
 
 ## ✏️ About
 
@@ -50,11 +49,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `build`
 
 Builds the app for production to the `build` folder.
-
-## 👋 Contribution 
-
-Feel free to contribute with this project. I'm open to suggestions :)
-Click [here](https://github.com/ccastrojr/react-modern-calendar/issues) to open a new issue.
 
 
 ---
